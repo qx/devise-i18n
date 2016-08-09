@@ -30,7 +30,7 @@ zh-CN:
       unconfirmed: "继续操作前请先确认您的帐号."
     mailer:
       confirmation_instructions:
-        action: "确认我的帐户"
+        action: "集创堂注册确认邮件"
         greeting: "欢迎 %{recipient}!"
         instruction: "您可以通过下面的链接确认您的帐户的电子邮件:"
         subject: "确认信息"
